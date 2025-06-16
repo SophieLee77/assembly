@@ -19,6 +19,16 @@ For this hands-on activity, you will be working for the Security Service Agency,
 2. What were your challenges in performing the lab (from design to the implementation phases)? (1 mark)
 3. Successfully coded your name (8 marks)
 
+########### Sophie's work #############
+# Sophie's work on paper
+![IMG_4502 (1)](https://github.com/user-attachments/assets/5b9cac20-6ed5-4096-b220-fca533474544)
+
+# Sophie's flowchart
+![SophieLeeNameencryption drawio](https://github.com/user-attachments/assets/85cc6773-6045-4df3-ad54-490c2878508a)
+
+# My challenges in completing this lab was mainlyin figuring out how to dviide 2005 by the result each time, keeping track of the remainders, and understanding how we got to the final answer. I felt that converting my name into hexadecimal wasn't too difficult, however due to having tables.
+
+
 ## How to submit it?
 
 - Upload the work in Github and clearly define your responses.
