@@ -30,6 +30,16 @@ Learn how to encrpyt/decrypt using a XOR logical operator.
 3. Encryption (4 marks)
 4. Decryption (4 marks)
 
+###################### Sophie's Work:
+
+![IMG_4498](https://github.com/user-attachments/assets/be401770-a9db-45b5-a9cb-c4318b0d4814)
+# I took a picture of my work on paper of my encryption. Please let me know if you cannot see it. Thank you.
+
+![SophieLeeNumberingSystems drawio](https://github.com/user-attachments/assets/fd0ee9d8-a252-4bfc-8194-d1cf51b2191a)
+# Flowchart Image. Please let me know if you cannot see it.
+
+# I think what was difficult was when I was converting from decimal to binary , there were times when I mixed up the amount of 0s and 1s in the process. I also had to add a 0 in the front of each binary version of d, o, & g, in order to do the XOR operation while decryption. Aside from that, I felt that the implementation of my flowchart to my work was pretty straightforward.
+
 ## How to submit it?
 
 - Upload the work in Github and clearly define your responses.
